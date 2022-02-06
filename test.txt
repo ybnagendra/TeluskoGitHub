@@ -17,5 +17,7 @@ BitBucket
 2) bitbucket atlassian tutorial
 3) Setting up Bitbucket for free with SSH connection to your machine | unlimited private repositories
 
-Thannks & Regards
+Done my changes.
+
+Thanks & Regards
 Nagendra
