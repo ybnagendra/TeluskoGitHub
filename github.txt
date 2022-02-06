@@ -24,11 +24,7 @@ Added Lorem 404:
 
 
 Added Lorem text:
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor repellendus quae odio alias fugiat praesentium. Vitae possimus animi beatae odio magnam id, mollitia voluptas quas placeat aliquam, neque vel hic perspiciatis ea est provident non nulla tempore officia, accusantium earum?
-
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi molestias nesciunt impedit, maxime id nobis repellat ipsa voluptates deleniti repellendus provident autem, laudantium necessitatibus eaque sed reiciendis tenetur esse solut</p>
-
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum temporibus voluptatum neque nostrum obcaecati, dolores fuga quis sequi architecto molestiae possimus, iusto iste illo repellat tempore necessitatibus doloremque ipsum? Et?</p>
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore officiis impedit eaque sapiente soluta voluptates enim beatae, accusantium aut dolores?
 
 
 
