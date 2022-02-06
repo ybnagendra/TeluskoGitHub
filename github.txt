@@ -16,7 +16,16 @@ BitBucket
 3) Setting up Bitbucket for free with SSH connection to your machine | unlimited private repositories.
 
 
+
+
+Added Lorem text:
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore officiis impedit eaque sapiente soluta voluptates enim beatae, accusantium aut dolores?
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestiae!
+
+Lorem30
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi quo earum asperiores culpa accusantium magnam vel omnis eum? Laboriosam eaque ipsam deleniti asperiores laudantium quasi praesentium architecto illum exercitationem velit!
+
 
 
 
