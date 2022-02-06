@@ -7,10 +7,6 @@ This line is added.
 
 Interview Questions of Github Link: https://www.interviewbit.com/git-interview-questions/
 
-I Pushed this line in new branch after deleting the conflict definition.
-
-
-
 
 Thanks & Regards
 Nagendra
