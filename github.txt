@@ -16,20 +16,7 @@ BitBucket
 3) Setting up Bitbucket for free with SSH connection to your machine | unlimited private repositories.
 
 
-Added Lorem 404:
-
-<p>Quo sequi temporibus reiciendis quod molestias, quos architecto rerum voluptatibus blanditiis, harum sapiente dolorem fuga illum quisquam molestiae cum deserunt ipsa repellat dolore? Recusandae amet id doloribus exercitationem minus eligendi reiciendis explicabo sint quia aperiam vitae blanditiis distinctio cum sunt at velit fuga veniam perferendis nisi nemo, alias minima tempora. Tempora impedit perferendis dolorum rem nisi, velit voluptate reiciendis delectus qui, illo deserunt! Tenetur, repudiandae! Eos quisquam rem unde ipsam id a delectus sapiente expedita, suscipit, laudantium quos ab repellat, inventore eligendi nemo commodi amet cum reiciendis rerum quia quas ipsa perferendis dolorem. Possimus vitae nostrum repellendus tempora consequuntur perspiciatis fugit asperiores facere aliquam perferendis deleniti minus doloremque consequatur fugiat molestias cumque voluptatem ex temporibus, ut blanditiis aperiam qui debitis! Ut modi esse fuga quia! Voluptate, illo itaque! Ab aut quis quidem quibusdam quod in repellat obcaecati, nemo fuga maiores, ut reiciendis dolor deleniti quas hic libero adipisci officiis nihil? Molestiae illum beatae itaque quasi qui iure quos asperiores reiciendis natus facere rerum, debitis odit cupiditate. Alias placeat non facilis tenetur reiciendis natus velit vero, fuga magni dolore qui aliquam deleniti fugit eum, optio quia iure, debitis accusantium odit. Hic temporibus sapiente obcaecati.</p>
-
-<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam, deserunt harum. Iste inventore laborum numquam repellendus voluptatum dolores laboriosam repudiandae incidunt dolor rerum error ullam, explicabo molestias est commodi eligendi cumque praesentium! Tenetur dolorum dignissimos pariatur dolorem, laboriosam saepe necessitatibus molestiae corrupti at vel maxime ipsum, alias totam tempore fugiat minima quo ad commodi consequuntur perspiciatis omnis fugit, suscipit sit. Deserunt et non alias eligendi fugit, laboriosam ipsum facere veritatis harum ipsam quasi itaque id qui nobis illo repudiandae. Ea aspernatur qui nostrum voluptatum sequi blanditiis ipsum modi inventore ipsa molestiae recusandae magnam ullam eaque fugiat facilis saepe temporibus deleniti, repudiandae explicabo illum! Necessitatibus corporis perferendis ullam vitae natus aut dignissimos corrupti porro repudiandae placeat. Reprehenderit a rem aut fugiat porro sequi blanditiis expedita, aliquid id suscipit odio delectus, repellat nam consequuntur? Voluptas nesciunt soluta ipsum molestiae. Alias placeat non facilis tenetur reiciendis natus velit vero, fuga magni dolore qui aliquam deleniti fugit eum, optio quia iure, debitis accusantium odit. Hic temporibus sapiente obcaecati.</p>
-
-
-Added Lorem text:
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor repellendus quae odio alias fugiat praesentium. Vitae possimus animi beatae odio magnam id, mollitia voluptas quas placeat aliquam, neque vel hic perspiciatis ea est provident non nulla tempore officia, accusantium earum?
-
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi molestias nesciunt impedit, maxime id nobis repellat ipsa voluptates deleniti repellendus provident autem, laudantium necessitatibus eaque sed reiciendis tenetur esse solut</p>
-
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum temporibus voluptatum neque nostrum obcaecati, dolores fuga quis sequi architecto molestiae possimus, iusto iste illo repellat tempore necessitatibus doloremque ipsum? Et?</p>
-
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestiae!
 
 
 
