@@ -1,6 +1,3 @@
-GitHub Definition:
-GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.[4] Headquartered in California, it has been a subsidiary of Microsoft since 2018.
-
 What is Git and why is it used?
 Git is the most popular, open-source, widely used, and an example of distributed version control system (DVCS) used for handling the development of small and large projects in a more efficient and neat manner.
 It is most suitable when there are multiple people working on projects as a team and is used for tracking the project changes and efficiently supports the collaboration of the development process.
@@ -23,9 +20,7 @@ Git usually handles feature merges automatically but sometimes while working in 
  
 These conflicts have to be solved manually after discussion with the team as git will not be able to predict what and whose changes have to be given precedence.
 
-Done my changes
- 
-
+Here i solved my conflicts.
 
 Thanks & Regards
 Nagendra
