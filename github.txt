@@ -1,4 +1,6 @@
-Interview Questions of Github Link: https://www.interviewbit.com/git-interview-questions/
+Interview Questions of Github Link: 
+1) https://www.interviewbit.com/git-interview-questions/
+2) https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
 
 Video tutorial on Youtube to learn Github and Bitbucket:
 
