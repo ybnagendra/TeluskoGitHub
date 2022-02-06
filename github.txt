@@ -3,15 +3,14 @@ A VCS keeps track of the contributions of the developers working as a team on th
 
 This line is added.
 
-What is a conflict?
-Git usually handles feature merges automatically but sometimes while working in a team environment, there might be cases of conflicts such as:
 
-1. When two separate branches have changes to the same line in a file
-2. A file is deleted in one branch but has been modified in the other.
- 
-These conflicts have to be solved manually after discussion with the team as git will not be able to predict what and whose changes have to be given precedence.
 
-Here i solved my conflicts.
+Interview Questions of Github Link: https://www.interviewbit.com/git-interview-questions/
+
+I Pushed this line in new branch after deleting the conflict definition.
+
+
+
 
 Thanks & Regards
 Nagendra
