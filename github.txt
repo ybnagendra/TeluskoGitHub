@@ -12,15 +12,9 @@ It has an amazing branching system that supports nonlinear development along wit
 What is a version control system (VCS)?
 A VCS keeps track of the contributions of the developers working as a team on the projects. They maintain the history of code changes done and with project evolution, it gives an upper hand to the developers to introduce new code, fixes bugs, and run tests with confidence that their previously working copy could be restored at any moment in case things go wrong.
 
-What is a conflict?
-Git usually handles feature merges automatically but sometimes while working in a team environment, there might be cases of conflicts such as:
 
-1. When two separate branches have changes to the same line in a file
-2. A file is deleted in one branch but has been modified in the other.
- 
-These conflicts have to be solved manually after discussion with the team as git will not be able to predict what and whose changes have to be given precedence.
+I Pushed this line in new branch after deleting the conflict definition.
 
-Here i solved my conflicts.
 
 Thanks & Regards
 Nagendra
