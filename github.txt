@@ -20,7 +20,7 @@ Git usually handles feature merges automatically but sometimes while working in 
  
 These conflicts have to be solved manually after discussion with the team as git will not be able to predict what and whose changes have to be given precedence.
 
-hello nagendra
+Here i solved my conflicts.
 
 Thanks & Regards
 Nagendra
